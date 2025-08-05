@@ -58,4 +58,4 @@ npm run dev
 - Contact form with email delivery
 - Animated components
 - SEO optimized
-- Fast performance 
+- Fast performance
