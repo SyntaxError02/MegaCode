@@ -18,9 +18,16 @@ const testimonials = [
   {
     quote:
       "The level of strategic insight and execution quality from MegaCode is unmatched. They became true partners in our growth journey, not just service providers.",
-    author: "Marcus Rodriguez",
-    role: "CTO, Primitive Haus",
+    author: "Teslim Alabi",
+    role: "CEO, Primitive Haus",
     image: "/professional-man-headshot.png",
+  },
+  {
+    quote:
+      "MegaCode didn't just save our company—they gave us a roadmap to become the proptech leader we always envisioned. They're not service providers; they're strategic partners who made our impossible dream inevitable.",
+    author: "Eldred Green",
+    role: "CEO, Doormot",
+    image: "/placeholder-user.jpg",
   },
 ]
 
@@ -54,7 +61,7 @@ export function ClientTestimonials() {
         </FadeIn>
 
         <StaggerContainer>
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
+          <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
             {testimonials.map((testimonial, index) => (
               <StaggerItem key={index}>
                 <motion.div

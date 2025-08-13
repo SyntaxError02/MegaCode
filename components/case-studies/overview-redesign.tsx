@@ -24,8 +24,8 @@ const caseStudies = [
     testimonial: {
       quote:
         "MegaCode didn't just provide developers - they became strategic partners in our journey. Their team understood our vision and helped us execute it flawlessly. The quality of talent and speed of delivery exceeded all expectations.",
-      author: "Sarah Chen",
-      role: "Founder & CEO, Primitive Haus",
+      author: "Teslim Alabi",
+      role: "CEO, Primitive Haus",
       avatar: "/placeholder.svg?height=60&width=60",
     },
   },
@@ -46,8 +46,8 @@ const caseStudies = [
     testimonial: {
       quote:
         "When our original development team fell through 72 hours before a critical launch, MegaCode saved our entire project. They deployed 4 senior developers who seamlessly integrated with our existing codebase and delivered exactly what we needed, when we needed it.",
-      author: "Marcus Rodriguez",
-      role: "CTO, UltiBlob",
+      author: "Franklin Nsude",
+      role: "CEO, UltiBlob",
       avatar: "/placeholder.svg?height=60&width=60",
     },
   },
@@ -68,7 +68,7 @@ const caseStudies = [
     testimonial: {
       quote:
         "MegaCode didn't just save our company—they gave us a roadmap to become the proptech leader we always envisioned. They're not service providers; they're strategic partners who made our impossible dream inevitable.",
-      author: "Doormot CEO",
+      author: "Eldred Green",
       role: "CEO, Doormot",
       avatar: "/placeholder-user.jpg",
     },

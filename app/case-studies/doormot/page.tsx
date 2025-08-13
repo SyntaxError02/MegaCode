@@ -165,7 +165,7 @@ export default function DoormotPage() {
               </p>
               <blockquote className="italic text-gray-800 border-l-4 border-orange-400 pl-4">
                 "MegaCode didn't just save our company—they gave us a roadmap to become the proptech leader we always envisioned. They're not service providers; they're strategic partners who made our impossible dream inevitable."<br />
-                <span className="font-semibold text-black">- Doormot CEO</span>
+                                            <span className="font-semibold text-black">- Eldred Green</span>
               </blockquote>
             </CardContent>
           </Card>
